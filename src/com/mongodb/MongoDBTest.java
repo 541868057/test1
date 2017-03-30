@@ -1,4 +1,4 @@
-package com;
+package com.mongodb;
 import java.net.UnknownHostException;  
 
 import com.mongodb.BasicDBObject;  
