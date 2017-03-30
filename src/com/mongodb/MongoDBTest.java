@@ -6,6 +6,17 @@ import com.mongodb.DB;
 import com.mongodb.DBCollection;  
 import com.mongodb.DBObject;  
 import com.mongodb.Mongo;  
+
+/**
+ *         <!-- MongoDB驱动 -->
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>3.0.2</version>
+        </dependency>
+ * @author Administrator
+ *
+ */
 public class MongoDBTest {
 	 public static void main(String[] args) throws UnknownHostException {  
          
